@@ -1,0 +1,15 @@
+d https://google.com/index.html index.html
+
+b https://google.com/index.html
+
+d https://google.com/index.html index.html
+
+u https://google.com/index.html
+
+d h https://google.com/index.html index.html
+
+d -h https://google.com/index.html index.html
+
+d -i https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png
+
+d https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png
